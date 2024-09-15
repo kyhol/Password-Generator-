@@ -1,12 +1,20 @@
 {
   "name": "password-generator-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic password generator ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Kyle Hollett",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kyhol/Password-Generator-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kyhol/Password-Generator-/issues"
+  },
+  "homepage": "https://github.com/kyhol/Password-Generator-#readme"
 }
